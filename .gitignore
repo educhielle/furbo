@@ -1,0 +1,4 @@
+*.exe
+*.tmp
+3p/seal_unx
+3p/seal_win
