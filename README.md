@@ -39,6 +39,7 @@ sh seal_unx.sh
 ### Compiling:
 
 #### Flags:
+
 TEMPLATE:
 ```
 TEMPLATE=0 // compile without Furbo
@@ -63,7 +64,8 @@ PT_MUL=1
 PT_SUB=0
 ```
 
-Examples:
+#### Examples:
+
 Compile without Furbo:
 `make compile TEMPLATE=0`
 
