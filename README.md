@@ -136,4 +136,4 @@ make run
 
 This software is under [GPLv3 license](LICENSE.md).
 
-Copyright (C) 2022 NYUAD, MoMA lab [https://wp.nyu.edu/momalab/](https://wp.nyu.edu/momalab/).
+Copyright (C) 2023 NYUAD, MoMA lab [https://wp.nyu.edu/momalab/](https://wp.nyu.edu/momalab/).
